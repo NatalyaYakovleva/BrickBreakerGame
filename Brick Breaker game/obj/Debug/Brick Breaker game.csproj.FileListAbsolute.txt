@@ -1,0 +1,10 @@
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\bin\Debug\Brick Breaker game.exe.config
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\bin\Debug\Brick Breaker game.exe
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\bin\Debug\Brick Breaker game.pdb
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick Breaker game.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick_Breaker_game.Form1.resources
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick_Breaker_game.Properties.Resources.resources
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick Breaker game.csproj.GenerateResource.cache
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick Breaker game.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick Breaker game.exe
+E:\VisualStudioCommunity\WinForm\Арканоид brick games\Brick Breaker game\Brick Breaker game\obj\Debug\Brick Breaker game.pdb
